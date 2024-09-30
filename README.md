@@ -11,6 +11,9 @@ The Atbash cipher is a simple substitution cipher that reverses the alphabet, re
 - B becomes Y
 - C becomes X
 - And so on...
+  
+ For example:
+- The word "HELLO" would be encoded as "svool" 
 
 ### A1Z26 Encode
 The A1Z26 encoder is a simple letter-to-number substitution method where each letter of the alphabet is replaced by its position in the alphabet:
@@ -21,7 +24,7 @@ The A1Z26 encoder is a simple letter-to-number substitution method where each le
 - Z = 26.
 
 For example:
-- The word "HELLO" would be encoded as "8 5 12 12 15."
+- The word "HELLO" would be encoded as "8 5 12 12 15"
 
 ## Features
 - Encrypt and decrypt text using the Atbash cipher.
