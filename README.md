@@ -2,6 +2,11 @@
 
 #### Link to the application: [click her👆🏻]
 
+![image](https://github.com/user-attachments/assets/9ad5b8e7-e3b0-4be6-aa83-fa6673ca6209)
+## 
+![image2](https://github.com/user-attachments/assets/bb7e91ea-76f2-4705-a839-b9e043a33c7a)
+
+
 ## Overview
 This project is a simple application that allows users to encrypt and decrypt text using two classic methods: the **Atbash Cipher** and the **A1Z26 Encoder**. The app provides an easy-to-use interface for inputting plain text and receiving the encoded or decoded result.
 
