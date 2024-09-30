@@ -1,6 +1,6 @@
 # Text Encryption/Decryption App
 
-#### Link to the application: [click her👆🏻]
+#### Link to the application: [click her👆🏻](https://text-encryption-decryption-app.streamlit.app/)
 
 ![image](https://github.com/user-attachments/assets/9ad5b8e7-e3b0-4be6-aa83-fa6673ca6209)
 ## 
